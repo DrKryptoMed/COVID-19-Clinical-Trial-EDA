@@ -28,4 +28,4 @@ This repository contains a comprehensive Exploratory Data Analysis (EDA) of **5,
 * `README.md`: Project documentation.
 
 ---
-**Note:** This project is part of my roadmap in **Healthcare Data Science** and **AI** with special application in  **Computational and Precision Oncology**.
+**Note:** This project is part of my roadmap in **Healthcare Data Science** and **AI/ML Engineering in Healthcare**  with special interest in  **Computational and Precision Oncology**.
